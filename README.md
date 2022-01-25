@@ -13,7 +13,7 @@
 
 </details>
 
-### I m Rama ganzz
+### I m Rama
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Terimaksih Telah Berkunjung :)" width="600" />
 

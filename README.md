@@ -1,10 +1,11 @@
 
-Cara Install!!
-$ pkg update && pkg upgrade
-$ pkg install nano python2 git -y
+<h5>Cara Install!!</h5>
+<br>
+$ pkg update && pkg upgrade <br>
+$ pkg install nano python2 git -y<br>
 $ pip2 install requests
-$ nano namafile.txt
-$ python2 slim.py namafile.txt
+$ nano namafile.txt<br>
+$ python2 slim.py namafile.txt<br>
 
 
 <p align="center">

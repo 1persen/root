@@ -3,7 +3,7 @@
 <br>
 $ pkg update && pkg upgrade <br>
 $ pkg install nano python2 git -y<br>
-$ pip2 install requests
+$ pip2 install requests<br>
 $ nano namafile.txt<br>
 $ python2 slim.py namafile.txt<br>
 

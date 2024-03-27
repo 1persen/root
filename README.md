@@ -1,4 +1,4 @@
-
+Tools Slims Auto Xploit
 <h5>Cara Install!!</h5>
 <br>
 $ pkg update && pkg upgrade <br>
@@ -19,7 +19,7 @@ $ python2 slim.py namafile.txt<br>
 
 </details>
 
-### I m Rama ganzz
+Zex CarTez
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Terimaksih Telah Berkunjung :)" width="600" />
 

@@ -19,7 +19,7 @@ $ python2 slim.py namafile.txt<br>
 
 </details>
 
-Zex CarTez
+
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Terimaksih Telah Berkunjung :)" width="600" />
 
